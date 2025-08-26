@@ -7,3 +7,7 @@ My favourite Resources:
     https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 – Helps visualize and better understand different data structures and algorithms
+
+Proof Reading:
+
+Article checked for typos

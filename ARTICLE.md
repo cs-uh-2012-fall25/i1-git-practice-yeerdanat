@@ -11,3 +11,6 @@ My favourite Resources:
 Proof Reading:
 
 Article checked for typos
+
+## Comment from Mujtaba Kamran:
+Thank you for the link to the website that visualizes algorithms. One of the biggest struggles I have when doing DSA practice is visualizing an attempted solution to the problem, so this is very beneficial in solving coding interview problems.
